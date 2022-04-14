@@ -1,0 +1,26 @@
+[
+  {
+    "dress": {
+      "Id": 1,
+      "Count": 1,
+      "Colour": "Red",
+      "Size": 34,
+      "Price": 200.0
+    },
+    "Id": 1,
+    "Sales": null,
+    "TotalSale": 680.0
+  },
+  {
+    "Id": 2,
+    "Sales": null,
+    "dress": {
+      "Id": 2,
+      "Count": 2,
+      "Colour": "Yellow",
+      "Size": 40,
+      "Price": 340.0
+    },
+    "TotalSale": 680.0
+  }
+]
